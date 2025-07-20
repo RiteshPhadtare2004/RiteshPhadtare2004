@@ -1,13 +1,13 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Ritesh Ranjeet Phadtare</h1>
-<h3 align="center">A passionate Android Developer from India</h3>
+<h3 align="center">A passionate Software Developer and DevOp Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/1irEscM.gif">
 
-- 🔭 I’m currently working on [Thesupervisor](https://github.com/atharvaKhewalkar/Thesupervisor)
+- 🔭 2025 Passout from Dr. D. Y. Patil Institute of Technology, Pune
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently preparing for AWS Solutions Architect - Associate Certification
 
-- 📫 How to reach me **riteshphadtare32@gmail.com**
+- 📫 How to reach me **riteshphadtare12.02.2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
